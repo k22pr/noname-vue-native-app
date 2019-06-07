@@ -12,7 +12,7 @@ const AppNavigation = StackNavigator(
       screen: Main,
 
       navigationOptions: navigation => {
-        console.log(navigation);
+        //   console.log(navigation);
         return {
           title: "10",
           header: null
